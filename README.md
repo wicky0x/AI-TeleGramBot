@@ -20,7 +20,7 @@ https://github.com/TrasherTravis/AI-LipSync-TGbot/assets/69963432/3d89d130-f8fb-
 
 #3 **Voicemejoanna** is a Telegram bot that generates input text-to-speech using Play.ht AI voice generator API.
 
-https://user-images.githubusercontent.com/69963432/248826612-fb5927a6-a0dd-41fa-9d6d-5ea2de8f4b5c.png
+![image](https://github.com/TrasherTravis/AI-TeleGramBot/assets/69963432/6cf67131-db08-4fd3-8e2f-6e491d48e98b)
 
 TG: Travis_BZ | Discord: travis#9295
 
